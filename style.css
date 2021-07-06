@@ -8,6 +8,13 @@ h1{
     color: rgb(77, 61, 61);
     
 }
+h2{
+    font-size: 40px;
+    color: rgb(77, 61, 61);
+}
+h3{
+    font-size: 30px;
+}
 .orange-color{
     color: orange;
 }
@@ -102,4 +109,22 @@ h1{
     background-color: black;
     color: white;
     padding: 22px;
+}
+.logo{
+    text-align: center;
+
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+#logo-slice{
+    border-left: 7px solid;
+    border-right: 7px solid;
+    border-bottom: 7px solid ;
+    border-image: linear-gradient(tomato, rgb(174, 174, 233));
+    border-image-slice: 1;
+}
+.logo a{
+    text-decoration: none;
+
 }
