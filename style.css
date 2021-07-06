@@ -37,3 +37,15 @@ h1{
     padding: 10px 15px;
     border-radius: 30px;
 }
+.banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.banner img{
+    height: 573px;
+    width: 312px;
+    margin: 0px 0px 0px 170px;
+}
