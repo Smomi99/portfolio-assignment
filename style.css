@@ -11,6 +11,9 @@ h1{
 .orange-color{
     color: orange;
 }
+.gray{
+    color: gray;
+}
 
 .top-section{
     display: flex;
@@ -80,4 +83,16 @@ h1{
 }
 #box3{
     margin: 45px 115px 0px 30px;
+}
+.follower-item{
+    margin-left: 9%;
+    margin-right: 6%;
+    box-shadow: 10px 10px 40px rgb(202, 188, 188);
+    border-radius: 22px;
+    
+}
+.social-items{
+    width: 33%;
+    padding-left: 150px;
+
 }
