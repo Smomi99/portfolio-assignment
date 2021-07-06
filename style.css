@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 60px;
+    color: rgb(77, 61, 61);
+    
+}
+.orange-color{
+    color: orange;
+}
+
+.top-section{
+    display: flex;
+    margin-bottom: 100px;
+   
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 222px;
+
+}
+.half-width img{
+    width:70%;
+
+
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(to right, orange , tomato);
+    font-size: 30px;
+    font-weight: 400;
+    color: white ;
+    padding: 10px 15px;
+    border-radius: 30px;
+}
