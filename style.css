@@ -96,3 +96,10 @@ h1{
     padding-left: 150px;
 
 }
+.footer-menu
+{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 22px;
+}
