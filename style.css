@@ -49,3 +49,35 @@ h1{
     width: 312px;
     margin: 0px 0px 0px 170px;
 }
+.my-service{
+    text-align: center;
+    width: 700px;
+    height: 150px;
+    margin: auto;
+}
+.service-items{
+    width: 33.3%;
+    /* text-align: center; */
+    /*border: 2px solid black;*/
+    padding: 26px;
+    border-radius: 58px;
+   /* margin: 80px;*/
+    margin: 50px 112px 0px 61px;
+    box-shadow: 10px 10px 40px rgb(202, 188, 188);
+}
+.service-items img{
+    height: 326px;
+    /* width: 100%; */
+    margin: auto;
+    display: block;
+  
+}
+#box1{
+    margin: 45px 0px 0px 162px;
+}
+#box2{
+    margin: 45px 3px 0px 26px;;
+}
+#box3{
+    margin: 45px 115px 0px 30px;
+}
